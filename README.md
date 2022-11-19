@@ -21,4 +21,5 @@ npm run test
 
 Unit Test Report pada setiap controller
 
-<img src="/images/test-report" width="100px">
+<img src="https://user-images.githubusercontent.com/70955991/202866364-bf0ef7bb-524d-457b-8c0f-d68522a49433.png" width="700">
+
