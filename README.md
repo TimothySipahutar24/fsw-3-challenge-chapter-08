@@ -20,3 +20,5 @@ npm run test
 # Test Report
 
 Unit Test Report pada setiap controller
+
+<img src="images/test-report" width="100px">
